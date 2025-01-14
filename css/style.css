@@ -1,6 +1,6 @@
 body {
   font-family: "Roboto", sans-serif;
-  color: #2e2f42;
+  color: #434455;
   background-color: #ffffff;
 }
 
@@ -38,7 +38,7 @@ button {
 }
 
 .nav-item:hover,
-.nav-item :focus {
+.nav-item:focus {
   color: #404bbf;
 }
 
@@ -46,14 +46,14 @@ button {
   font-style: normal;
 }
 
-.address > ul > li > a {
+.address__a {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
 
-.address > ul > li > a:hover,
-.address > ul > li > a:focus {
+.address__a:hover,
+.address__a:focus {
   color: #404bbf;
 }
 
